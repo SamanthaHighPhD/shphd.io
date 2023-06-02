@@ -1,8 +1,8 @@
 ---
 title: 'Learning Blog Development with Next.js, Vercel and Tailwind CSS.'
-excerpt: 'Meow.'
+excerpt: 'Starting my own personal website, which will have a blog where I write up projects I am working on and will have links to relevant professional websites such as LinkedIn and GitHub.'
 coverImage: '/assets/blog/banners/Rainbow04Green.jpg'
-date: '2023-06-02T05:35:07.322Z'
+date: '2023-06-02T16:05:45-07:00'
 author:
   name: Samantha High
   picture: '/assets/blog/authors/SH.jpg'

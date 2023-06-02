@@ -1,8 +1,8 @@
 ---
-title: 'Developing local Mastodon server.'
-excerpt: 'Learning how to develop a cloud hosted Mastodon server'
+title: 'Developing local Mastodon server'
+excerpt: 'Learning how to develop a cloud hosted Mastodon server.'
 coverImage: '/assets/blog/banners/Rainbow06Purple.jpg'
-date: '2022-11-01T05:35:07.322Z'
+date: '2022-11-01T10:05:45-08:00'
 author:
   name: Samantha High
   picture: '/assets/blog/authors/SH.jpg'
