@@ -37,7 +37,7 @@ const Meta = () => {
         name="description"
         content={`Samantha High's blog.`}
       />
-      <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+      <meta property="og:image" content="../public/assets/blog/authors/SH.jpg" />
     </Head>
   )
 }
