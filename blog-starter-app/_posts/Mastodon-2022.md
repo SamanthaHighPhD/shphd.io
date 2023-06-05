@@ -1,5 +1,5 @@
 ---
-title: 'Developing local Mastodon server'
+title: 'Developing Local Mastodon Server'
 excerpt: 'Learning how to develop a cloud hosted Mastodon server.'
 coverImage: '/assets/blog/banners/Rainbow06Purple.jpg'
 date: '2022-11-01T10:05:45-08:00'

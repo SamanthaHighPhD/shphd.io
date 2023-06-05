@@ -1,5 +1,5 @@
 ---
-title: 'Furthering education with Udacity'
+title: 'Furthering Education with Udacity'
 excerpt: 'After gaining my Ph.D. in Biology and travelling around the world I decided to learn more about computer science through a Udacity Course.'
 coverImage: '/assets/blog/banners/Rainbow05Blue.jpg'
 date: '2019-03-16T10:05:45-07:00'
@@ -10,7 +10,7 @@ ogImage:
   url: '/assets/blog/banners/Rainbow05Blue.jpg'
 ---
 
-After gaining my Ph.D. in Biology and travelling around the world I decided to learn more about computer science through a Udacity Course. I earned the Intro to Programming Nanodegree from Udacity in 2019. 
+After gaining my Ph.D. in Biology and traveling around the world I decided to learn more about computer science through a Udacity Course. I earned the Intro to Programming Nanodegree from Udacity in 2019. 
 
 ## Udacity Intro to Programming Nanodegree Topics
 

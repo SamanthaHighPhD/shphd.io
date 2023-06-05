@@ -1,5 +1,5 @@
 ---
-title: 'Furthering education with Oregon State Univeristy Postbaccalaureate BS in CS'
+title: 'Furthering Education with Oregon State Univeristy Postbaccalaureate BS in CS'
 excerpt: 'After learning more about computer science through Udacity, and continuing to tinker on my own, I have decided to start a more formal computer science education.'
 coverImage: '/assets/blog/banners/Rainbow02Orange.jpg'
 date: '2021-09-20T10:05:45-08:00'
