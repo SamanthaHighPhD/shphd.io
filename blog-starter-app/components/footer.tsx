@@ -35,9 +35,11 @@ const Footer = () => {
             CV
           </a>
           </div>
-          <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
+          <a
+            href="https://github.com/SamanthaHighPhD/shphd.io/blob/main/LICENSE.md" 
+            className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             © Samantha High {currentYear}
-          </div>
+          </a>
         </div>
       </Container>
 
