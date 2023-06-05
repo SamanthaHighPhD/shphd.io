@@ -1,13 +1,13 @@
 ---
 title: 'Learning Blog Development with Next.js, Vercel and Tailwind CSS.'
 excerpt: 'Starting my own personal website, which will have a blog where I write up projects I am working on and will have links to relevant professional websites such as LinkedIn and GitHub.'
-coverImage: '/assets/blog/banners/Rainbow04Green.jpg'
+coverImage: '/assets/blog/banners/Rainbow01Red.jpg'
 date: '2023-06-02T16:05:45-07:00'
 author:
   name: Samantha High
   picture: '/assets/blog/authors/SH.jpg'
 ogImage:
-  url: '/assets/blog/banners/Rainbow04Green.jpg'
+  url: '/assets/blog/banners/Rainbow01Red.jpg'
 ---
 
 I have decided to officially start my own personal website, which will have a blog where I write up projects I am working on and will have links to relevant professional websites such as LinkedIn and GitHub. I will import old blog posts as well. To develop this website I am using and learning more about [**Next.js**](https://nextjs.org/), [**Vercel**](https://vercel.com/), and [**Tailwind CSS**](https://tailwindcss.com/). Since I already have experience with JavaScript, Node, React, CSS, and HTML, developing with Next.js, Vercel, and Tailwind CSS was relatively straightforward. I developed this website in a Windows environment using Visual Studio Code, which has some helpful extensions. 
