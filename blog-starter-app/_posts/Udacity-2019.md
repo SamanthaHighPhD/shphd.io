@@ -16,7 +16,9 @@ After gaining my Ph.D. in Biology and travelling around the world I decided to l
 
 Through this degree I learned: 
 
+<ol>
 1. How to make a web page using of HTML and CSS.
 2. How to code a quiz using Python.
 3. How to create a movie trailer website using Python, Twilio API, HTML, CSS, and the Turtle graphics module.
 4. How to perform data analytics using Python, Anaconda, Jupyter Notebook, NumPy, and Pandas.
+</ol>
