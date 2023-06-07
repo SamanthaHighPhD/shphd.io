@@ -3,7 +3,6 @@ import ErrorPage from 'next/error'
 import Container from '../../components/container'
 import PostBody from '../../components/post-body'
 import Header1 from '../../components/header'
-import Header2 from '../../components/header2'
 import PostHeader from '../../components/post-header'
 import Layout from '../../components/layout'
 import { getPostBySlug, getAllPosts } from '../../lib/api'
@@ -12,6 +11,8 @@ import Head from 'next/head'
 import { CMS_NAME } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
 import type PostType from '../../interfaces/post'
+import SectionSeparator from '../../components/section-separator'
+import MoreStories from '../../components/more-stories'
 
 type Props = {
   post: PostType
@@ -46,6 +47,8 @@ export default function Post({ post, morePosts, preview }: Props) {
               />
               <PostBody content={post.content} />
             </article>
+            <SectionSeparator />
+            {morePosts.length > 0 && <MoreStories posts={morePosts} />}
           </>
         )}
       </Container>
@@ -69,6 +72,14 @@ export async function getStaticProps({ params }: Params) {
     'ogImage',
     'coverImage',
   ])
+  const morePosts = getAllPosts([
+    'title',
+    'date',
+    'slug',
+    'author',
+    'coverImage',
+    'excerpt',
+  ])
   const content = await markdownToHtml(post.content || '')
 
   return {
@@ -76,7 +87,7 @@ export async function getStaticProps({ params }: Params) {
       post: {
         ...post,
         content,
-      },
+      },morePosts,
     },
   }
 }

@@ -7,6 +7,7 @@ import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import { CMS_NAME } from '../lib/constants'
 import Post from '../interfaces/post'
+import Header2 from '../components/header2'
 
 type Props = {
   allPosts: Post[]
@@ -23,6 +24,7 @@ export default function Index({ allPosts }: Props) {
         </Head>
         <Container>
           <Intro />
+          <Header2 />
           {heroPost && (
             <HeroPost
               title={heroPost.title}
