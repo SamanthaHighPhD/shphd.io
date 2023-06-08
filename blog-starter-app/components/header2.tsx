@@ -28,6 +28,12 @@ const Header = () => {
         >
           CV
         </Link>
+        <Link
+          href="/portfolio"
+          className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-1 px-12 lg:px-4 duration-200 transition-colors mb-1 lg:mb-0"
+        >
+          Portfolio
+        </Link>
     </div>
    </div>
   )
