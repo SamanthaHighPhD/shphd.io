@@ -1,5 +1,5 @@
 ---
-title: 'Learning Blog Development with Next.js, Vercel and Tailwind CSS.'
+title: 'Learning Blog Development with Next.js, Vercel and Tailwind CSS'
 excerpt: 'Starting my own personal website, which will have a blog where I write up projects I am working on and will have links to relevant professional websites such as LinkedIn and GitHub.'
 coverImage: '/assets/blog/banners/Rainbow01Red.jpg'
 date: '2023-06-02T16:05:45-07:00'

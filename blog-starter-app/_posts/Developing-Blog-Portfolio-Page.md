@@ -21,5 +21,6 @@ Inspired by my homepage and blog post pages, which utilized Typescript and Tailw
 ### Striving for Efficient Image Display:
 For my computer graphics projects, I wished to showcase screenshots from those projects. However, I encountered a setback when I noticed that the page loading speed was adversely affected due to the large file sizes of the images. Despite resizing the images using Tailwind CSS, the issue persisted. To optimize the loading speed and improve responsiveness, I opted for a creative solution. Using the GIMP program, which I had previously mentioned in my blog posts, I combined all the screenshots into a single composite image. With GIMP's layer functionality, I effortlessly imported each image as a layer and resized them within the canvas dimensions. By arranging the images in an aesthetically pleasing grid and exporting the final composition, I significantly reduced the page's loading time.
 
-### Conclusion:
+---
+
 My journey at Oregon State University has been marked by a diverse range of computer science projects. Recognizing the need to showcase these accomplishments effectively, I embarked on creating a dedicated portfolio page. Through meticulous research and problem-solving, I overcame challenges such as PDF linking and image optimization. If you would like to view my [**portfolio**](../portfolio) as it currently stands, please use one of the Portfolio links provided at the bottom of each page. 
