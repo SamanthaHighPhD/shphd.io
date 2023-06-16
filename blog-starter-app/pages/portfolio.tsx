@@ -19,8 +19,31 @@ export default function Portfolio() {
             <img className='shadow-sm w-full mb-6' src="/assets/blog/banners/Rainbow06Purple.jpg" alt="banner" />
           </div>
           <div className='max-w-6xl mx-auto text-lg'>
-            During my tenure at Oregon State University, I had the privilege of working on a wide range of projects that have enriched my skills and provided valuable hands-on experience. 
-            While I am unable to share specific solutions due to confidentiality, I would like to highlight some noteworthy endeavors that have shaped my proficiency in various technologies and problem-solving.
+            <p className='mt-4'>
+            Throughout my academic journey, spanning from my Honors Bachelor of Science in Biology (2009) to my doctoral research and Doctor of Philosophy in Biology (2016) to now completing 
+            a second Bachelor of Science, this time in computer science, I have constantly 
+            pursued opportunities to expand my knowledge and skills in various disciplines. While my initial focus was in the field of Biology, my passion for technology and problem-solving 
+            led me to explore additional avenues in computer science. </p>
+            <p className='mt-4'>
+            During my undergraduate studies in biology, I embarked on a self-directed learning path, delving into the world of Python 
+            programming. This endeavor allowed me to enhance my programming skills and gain proficiency in Python. As part of my thesis project, "The Numerical Effects of Timing Systems," 
+            I delved into the world of UX and UI design and leveraged my newfound expertise to ensure a seamless user experience and experimental design. </p>
+            <p className='mt-4'>
+            As a doctoral researcher, I collaborated with our esteemed bioinformatician and other colleagues, contributing to the analysis of complex experimental data sets and genome analysis. 
+            In particular, we utilized R, specifically the G-test of genotypes, to investigate and draw meaningful insights from the intricate genetic information we had gathered. This experience sharpened 
+            my analytical abilities and solidified my expertise in leveraging statistical methodologies for biological research. </p>
+            <p className='mt-4'>
+            In my pursuit of a well-rounded skill set, I also undertook the Intro to Programming Nanodegree at 
+            Udacity (2019). This intensive program provided me with a comprehensive foundation in computer science principles, equipping me with the fundamental knowledge and problem-solving 
+            techniques that underpin successful software development. </p>
+            <p className='mt-4'>
+            After completing my Udacity Nanodegree I decided to pursue a formal Bachelor of Science degree in Computer Science at Oregon State University (OSU). During my time at OSU, I had 
+            the privilege of working on a wide range of projects that have enriched my skills and provided valuable hands-on experience. </p>
+            <p className='mt-4'>
+            Now, as I transition into the realm of software engineering, my diverse background in both biology and computer science 
+            positions me uniquely to tackle complex challenges and approach problem-solving from a multidisciplinary perspective. The amalgamation of my skills in programming, statistical 
+            analysis, and user-centered design enables me to deliver innovative and impactful solutions. What follows is a selection of projects that demonstrate my capabilities and growth across 
+            various domains. While specific project solutions are confidential, I am excited to share the valuable experiences and insights gained along this transformative journey. </p>
             <h2 className='mt-4 font-bold'>Exploring the World of Computer Science</h2>
             In my Introduction to Computer Science courses, I delved into the realm of Python, immersing myself in exciting projects that included developing text-based games. These projects allowed me to 
             strengthen my programming skills while honing my ability to create engaging and interactive experiences.
@@ -68,6 +91,17 @@ export default function Portfolio() {
             collection of awe-inspiring projects that brought my creative visions to life, as seen below. 
             <div className="py-2 flex flex-row justify-center items-center">
             <img className='justify-center items-center' src="/assets/blog/portfolio/GraphicsProjects.png" alt="Project2Screenshot1" />
+            </div>
+            <div>
+              <h2 className='mt-10 text-3xl font-bold'>PUBLICATIONS</h2>
+              <p className='mt-8'><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325708/" className='text-[#2f31c2]'> Michelle Kossack, Samantha High, Rachel Hopton, Yi-lin Yan, John Postlethwait, Bruce Draper. (2019) Female sex
+              development and reproductive duct formation depend on Wnt4a in zebrafish. Genetics. 211(1): 219-233.</a></p>
+              <p className='mt-4'><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5761338/" className='text-[#2f31c2]'> Yi-Lin Yan, Thomas Desvignes, Ruth Bremiller, Catherine Wilson, Danielle Dillon, Samantha High, Bruce Draper, 
+              Charles Loren Buck, John Postlethwait. (2017) Gonadal soma controls ovarian follicle proliferation through Gsdf in zebrafish. Dev. Dyn., 246: 925-945.</a></p>
+              <p className='mt-4'><a href="https://scholarsbank.uoregon.edu/xmlui/handle/1794/20462" className='text-[#2f31c2]'> Samantha High. June 2016. Sex Determination in Zebrafish: Genetics of Sex and wnt4a. Dissertation, University of Oregon.</a></p>
+              <p className='mt-4'> <a href="https://pubmed.ncbi.nlm.nih.gov/25233988/" className='text-[#2f31c2]'> Wilson C, High SK, McCluskey BM, Amores A, Yan YL, Titus TA, Anderson JL, Batzel P, Carvan MJ 3rd, Schartl M., Postlethwait J. (2014) Wild sex 
+              in zebrafish: loss of the natural sex determinant in domesticated strains. Genetics. 198(3): 1291-1308.</a></p>
+              <p className='mt-4'><a href="https://ir.library.oregonstate.edu/concern/honors_college_theses/nc580p32f?locale=en" className='text-[#2f31c2]'> Samantha Steiner. 2009. Numerical Effects on Timing System Pathways. Thesis, Oregon State University.</a></p>
             </div>
             <br />
           </div>
