@@ -1,6 +1,6 @@
 ## ARTICLES
 
-All the files inside `_posts` directory are licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). The attribution requirement is only met when:
+All the files inside `_posts` directory and content within `pages/posts/portfolio.tsx` are licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). The attribution requirement is only met when:
 
 1. The canonical link is directed towards the original article, e.g. `<link rel="canonical" href="https://shphd.io/posts/POST-TITLE" />`
 2. The following message is displayed above and below the article: This article has been originally published on <a href="https://shphd.io/">Samantha High's website</a>.
